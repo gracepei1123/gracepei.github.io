@@ -1,15 +1,15 @@
 ---
-layout: homepage
+layout: Bui Thanh Thao (裴清欢) 
 ---
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Master student at Xi'an Jiaotong University. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **New Media:** image recognition, image generation, video captioning
+- **Artificial Intelligence:** meta-learning, incremental learning, transfer learning
 
 ## News
 
